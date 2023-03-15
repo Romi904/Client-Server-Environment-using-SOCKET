@@ -28,6 +28,10 @@ To set up this project on your local machine, follow these steps:
 4. Start the server by running the server.py file on a terminal
 5. Open a client terminal and connect to the server using the client.py file
 
+## Usage
+ python3 [file_name].py [host] [port]
+ python3 server.py 127.0.0.0 5555
+ 
 ## Contributing
 
 Contributions to this project are welcome. To contribute, please fork the repository and create a pull request. 
