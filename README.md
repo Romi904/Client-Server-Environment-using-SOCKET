@@ -34,7 +34,7 @@ Contributions to this project are welcome. To contribute, please fork the reposi
 
 ## License
 
-This project is licensed under the MIT license. See [LICENSE.md](https://github.com/romi904/Client-Server-Environment-using-SOCKET/LICENSE.md) for more details. 
+This project is licensed under the MIT license. See [LICENSE.md](https://github.com/romi904/Client-Server-Environment-using-SOCKET/LICENSE) for more details. 
 
 ## Acknowledgements
 
